@@ -1,0 +1,7 @@
+course_id,name_en,name_ar,grade_level,teacher_id,language
+MATH-8,Mathematics,الرياضيات,8,T-01,ar
+SCI-8,Science,العلوم,8,T-02,en
+ENG-8,English Language,اللغة الإنجليزية,8,T-03,en
+ARB-8,Arabic Language,اللغة العربية,8,T-04,ar
+ICT-9,Information and Communication Technology,تقنية المعلومات والاتصالات,9,T-02,en
+SOC-9,Social Studies,الدراسات الاجتماعية,9,T-04,ar

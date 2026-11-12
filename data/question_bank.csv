@@ -1,0 +1,91 @@
+question_id,course_id,language,type,question_text,option_a,option_b,option_c,option_d,correct_option,points,topic,author_id
+Q-0001,MATH-8,ar,MCQ,ما مساحة مستطيل طوله 8 سم وعرضه 5 سم؟,13 سم²,26 سم²,40 سم²,45 سم²,C,2,الهندسة,T-01
+Q-0002,MATH-8,ar,MCQ,كم يساوي ١٢ × ٣؟,٣٣,٣٦,٤٦,١٥,B,1,العمليات الحسابية,T-01
+Q-0003,MATH-8,ar,MCQ,اشترت طالبة ٣ دفاتر، سعر الدفتر الواحد ٧٥٠ فلسًا، واشترت أيضًا قلمًا سعره ٢٥٠ فلسًا. إذا دفعت للبائع ٣ دنانير، فكم فلسًا يتبقى لها؟,٥٠٠,٢٥٠,٧٥٠,١٠٠٠,A,3,المسائل الكلامية,T-01
+Q-0004,MATH-8,ar,MCQ,ما محيط مربع طول ضلعه ٧ سم؟,١٤ سم,٢١ سم,٤٩ سم,٢٨ سم,D,1,الهندسة,T-01
+Q-0005,MATH-8,ar,MCQ,أيُّ الكسور الآتية يساوي 0.75؟,3/4,1/4,7/5,2/3,A,1,الكسور,T-01
+Q-0006,MATH-8,ar,MCQ,كم يساوي ٢٥٪ من ٨٠؟,٢٠,٤٠,١٦,٢٥,A,1,النسبة المئوية,T-01
+Q-0007,MATH-8,ar,TRUE_FALSE,العدد 17 عدد أولي.,صح,خطأ,,,A,1,الأعداد,T-01
+Q-0008,MATH-8,ar,TRUE_FALSE,العدد ٠٫٥ يساوي النصف.,صح,خطأ,,,A,1,الكسور,T-01
+Q-0009,MATH-8,ar,TRUE_FALSE,مجموع قياسات زوايا المثلث يساوي ٣٦٠ درجة.,صح,خطأ,,,B,1,الهندسة,T-01
+Q-0010,MATH-8,ar,MCQ,ما قيمة المقدار 3x + 2 عندما x = 4؟,14,12,10,18,A,2,الجبر,T-01
+Q-0011,MATH-8,ar,MCQ,ما الوسط الحسابي للأعداد: 4، 6، 8، 10؟,6,8,28,7,D,2,الإحصاء,T-01
+Q-0012,MATH-8,ar,MCQ,ما ناتج (-3) × (-4)؟,-12,12,-7,7,B,2,الأعداد الصحيحة,T-01
+Q-0013,MATH-8,ar,MCQ,أيُّ الأعداد الآتية يقبل القسمة على ٣؟,٢٠,٣٤,٥١,٧٠,C,2,الأعداد,T-01
+Q-0014,MATH-8,ar,MCQ,إذا كان y = 2x، وكان x = 6، فما قيمة y؟,8,3,26,12,D,2,الجبر,T-01
+Q-0015,MATH-8,ar,MCQ,ما حل المعادلة 2x - 5 = 11؟,x = 3,x = 6,x = 8,x = 16,C,2,المعادلات,T-01
+Q-0016,ICT-9,en,MCQ,"In a spreadsheet, what does the formula ""=SUM(A1:A3)"" do?","Adds the values in cells A1, A2 and A3",Multiplies A1 by A3,Counts the cells from A1 to A3,Finds the average of A1 and A3,A,3,Spreadsheets,T-02
+Q-0017,ICT-9,ar,TRUE_FALSE,من الآمن مشاركة كلمة المرور مع الأصدقاء المقربين.,صح,خطأ,,,B,1,الأمان الرقمي,T-01
+Q-0018,ICT-9,en,TRUE_FALSE,RAM keeps its data when the computer is switched off.,True,False,,,B,2,Hardware,T-02
+Q-0019,ICT-9,en,MCQ,What does CPU stand for?,Central Processing Unit,Computer Personal Unit,Central Program Utility,Control Processing Unit,A,1,Hardware,T-02
+Q-0020,ICT-9,ar,MCQ,أيٌّ مما يأتي من وحدات الإخراج؟,لوحة المفاتيح,الماسح الضوئي,الميكروفون,الطابعة,D,1,المكونات المادية,T-01
+Q-0021,ICT-9,en,MCQ,Which device is used to enter text into a computer?,Monitor,Keyboard,Speaker,Printer,B,1,Hardware,T-02
+Q-0022,ICT-9,ar,MCQ,ما العدد العشري الذي يساوي العدد الثنائي 101؟,٥,٣,١٠١,٦,A,2,البيانات,T-01
+Q-0023,ICT-9,ar,MCQ,تريد سارة إرسال ملف كبير الحجم إلى زميلتها عبر البريد الإلكتروني، لكن البريد يرفضه لأن حجمه يتجاوز الحد المسموح به. ما الحل الأنسب من بين الخيارات الآتية؟,تغيير اسم الملف,ضغط الملف في ملف ZIP قبل إرساله,إرسال الرسالة بدون عنوان,حذف الرسالة وإعادة كتابتها,B,2,الإنترنت,T-01
+Q-0024,ICT-9,ar,MCQ,أيُّ وحدات التخزين الآتية هي الأكبر؟,KB,MB,GB,Byte,C,1,البيانات,T-01
+Q-0025,ICT-9,en,TRUE_FALSE,A URL is the address of a web page.,True,False,,,A,1,Internet,T-02
+Q-0026,ICT-9,ar,MCQ,ما وظيفة وحدة المعالجة المركزية (CPU) في الحاسوب؟,تخزين الملفات بشكل دائم,تنفيذ التعليمات ومعالجة البيانات,عرض الصور على الشاشة,طباعة المستندات,B,2,المكونات المادية,T-01
+Q-0027,ICT-9,ar,MCQ,ما الناتج الذي يظهر في الخلية عند كتابة الصيغة =5+3*2 في برنامج جداول البيانات؟,16,13,10,11,D,3,جداول البيانات,T-01
+Q-0028,ICT-9,en,MCQ,Which of these is the strongest password?,password123,12345678,Sara2010,T7#qL9!vR2,D,2,Online safety,T-02
+Q-0029,ICT-9,en,MCQ,Which of these is an output device?,Mouse,Scanner,Printer,Microphone,C,1,Hardware,T-02
+Q-0030,ICT-9,en,MCQ,What is the main job of an operating system?,To manage the computer's hardware and software,To browse the internet,To type documents,To edit photos,A,2,Software,T-02
+Q-0031,ICT-9,EN,MCQ,How many bits are there in one byte?,4,8,16,1024,B,1,Data,T-02
+Q-0032,ICT-9,ar,TRUE_FALSE,تُعدّ الفأرة (Mouse) من وحدات الإدخال.,صح,خطأ,,,A,1,المكونات المادية,T-01
+Q-0033,ICT-9,en,MCQ,What is the decimal value of the binary number 1010?,8,10,12,1010,B,2,Data,T-02
+Q-0034,ENG-8,en,TRUE_FALSE,"The word ""quickly"" is an adverb.",True,False,,,A,1,Grammar,T-03
+Q-0035,ENG-8,en,TRUE_FALSE,"""Their"", ""there"" and ""they're"" have the same meaning.",True,False,,,B,1,Vocabulary,T-03
+Q-0036,ENG-8,en,MCQ,Which sentence is in the passive voice?,The cat chased the mouse.,The mouse was chased by the cat.,The cat is chasing the mouse.,The mouse runs away from the cat.,B,2,Grammar,T-03
+Q-0037,ENG-8,en,MCQ,"Read the text: ""Salem wakes up at 6 a.m. every school day. He has breakfast with his family, then he walks to school with his sister, Noura. School starts at 7:30 a.m."" How does Salem get to school?",By bus,By car,He walks,By bike,C,3,Reading,T-03
+Q-0038,ENG-8,en,MCQ,"What does the idiom ""break the ice"" mean?",To damage something frozen,To win a competition,To stop an argument,To help people feel relaxed when they first meet,D,2,Vocabulary,T-03
+Q-0039,ENG-8,en,MCQ,Choose the correct word: She ___ to school every day.,go,goes,going,gone,B,1,Grammar,T-03
+Q-0040,ENG-8,en,MCQ,"Choose the past tense of the verb ""go"".",goed,,gone,going,B,1,Grammar,T-03
+Q-0041,ENG-8,en,MCQ,Which sentence is punctuated correctly?,Where are you going.,Where are you going?,where are you going?,"Where are you going,",B,2,Punctuation,T-03
+Q-0042,ENG-8,en,MCQ,"In the sentence ""The tall girl ran quickly to the bus"", which word is an adjective?",tall,girl,ran,quickly,A,2,Grammar,T-03
+Q-0043,ENG-8,en,MCQ,"Which word is the opposite of ""ancient""?",old,large,quiet,modern,D,1,Vocabulary,T-03
+Q-0044,ENG-8,en,MCQ,Choose the correct comparative: This book is ___ than that one.,more interesting,interestinger,most interesting,interestingest,A,2,Grammar,T-03
+Q-0045,ENG-8,en,MCQ,"What is the plural of ""child""?",childs,childes,children,childrens,C,1,Vocabulary,T-03
+Q-0046,ENG-8,en,TRUE_FALSE,"""Happy"" and ""glad"" are synonyms.",True,False,,,A,1,Vocabulary,T-03
+Q-0047,ENG-8,en,MCQ,Which word is spelled correctly?,recieve,receive,receeve,riceive,B,1,Spelling,T-03
+Q-0048,ARB-8,ar,TRUE_FALSE,يدلّ الفعل الماضي على حدث وقع قبل زمن التكلم.,صح,خطأ,,,A,1,النحو,T-04
+Q-0049,ARB-8,ar,MCQ,أيُّ الكلمات الآتية اسم؟,ذهبَ,في,مدرسة,يلعبُ,C,1,أقسام الكلام,T-04
+Q-0050,ARB-8,ar,MCQ,"ما ضدّ كلمة ""طويل""؟",قصير,كبير,عالٍ,واسع,A,1,المفردات,T-04
+Q-0051,ARB-8,ar,TRUE_FALSE,حروف الجرّ تجرّ الاسم الذي يليها.,صح,خطأ,,,A,1,النحو,T-04
+Q-0052,ARB-8,ar,MCQ,ما علامة نصب المثنى؟,الفتحة,الألف,الياء,الواو,C,2,النحو,T-04
+Q-0053,ARB-8,ar,MCQ,ما علامة رفع جمع المذكر السالم؟,الضمة,الألف,الواو,الياء,C,2,النحو,T-04
+Q-0054,ARB-8,ar,MCQ,"اقرأ الجملة الآتية، ثم أجب: ""كتبَ الطلابُ واجباتِهم في الصباحِ، ثم ذهبوا إلى المكتبةِ."" ما إعراب كلمة ""واجباتِهم""؟",فاعل مرفوع,مفعول به منصوب وعلامة نصبه الكسرة,اسم مجرور بحرف الجر,خبر مرفوع,B,3,الإعراب,T-04
+Q-0055,ARB-8,ar,MCQ,"ما المبتدأ في جملة: ""السماءُ صافيةٌ""؟",صافيةٌ,السماءُ,الجملة كلها,لا يوجد مبتدأ,B,2,الإعراب,T-04
+Q-0056,ARB-8,ar,MCQ,"ما مفرد كلمة ""أقلام""؟",قلمان,مقلمة,قلم,أقلامي,C,1,الصرف,T-04
+Q-0057,ARB-8,ar,TRUE_FALSE,"آخر كلمة ""مدرسة"" تاء مربوطة.",صح,خطأ,,,A,1,الإملاء,T-04
+Q-0058,ARB-8,ar,MCQ,"ما نوع الهمزة في أول كلمة ""استماع""؟",همزة قطع,همزة متوسطة,همزة متطرفة,همزة وصل,D,2,الإملاء,T-04
+Q-0059,ARB-8,ar,MCQ,"ما إعراب كلمة ""الطالبُ"" في جملة: ""نجحَ الطالبُ""؟",فاعل مرفوع,مفعول به منصوب,مبتدأ مرفوع,خبر مرفوع,A,2,الإعراب,T-04
+Q-0060,ARB-8,ar,MCQ,"ما جمع كلمة ""كتاب""؟",كُتُب,كتابات,كاتبون,مكاتب,A,1,الصرف,T-04
+Q-0061,ARB-8,ar,MCQ,"ما نوع كلمة ""يكتبُ"" في جملة: ""الطالبُ يكتبُ الدرسَ""؟",اسم,فعل مضارع,فعل ماضٍ,حرف,B,1,أقسام الكلام,T-04
+Q-0062,SOC-9,ar,MCQ,ما العملة الرسمية لدولة الكويت؟,الريال,الدرهم,الدينار الكويتي,الجنيه,C,1,الاقتصاد,T-04
+Q-0063,SOC-9,ar,MCQ,خريطة مقياس رسمها ١ : ١٠٠٠٠٠. إذا كانت المسافة بين مدينتين على الخريطة ٥ سم، فما المسافة الحقيقية بينهما؟,٥ كم,٥٠ كم,٥٠٠ م,٥٠٠ كم,A,3,الخرائط,T-04
+Q-0064,SOC-9,ar,MCQ,ما أكبر محيطات العالم مساحةً؟,المحيط الأطلسي,المحيط الهندي,المحيط الهادئ,المحيط المتجمد الشمالي,C,1,الجغرافيا,T-04
+Q-0065,SOC-9,ar,MCQ,ما الاتجاه المعاكس لاتجاه الشرق؟,الشمال,الغرب,الجنوب,الشمال الشرقي,B,1,الخرائط,T-04
+Q-0066,SOC-9,ar,MCQ,تقع دولة الكويت في الركن الشمالي الغربي من الخليج العربي، وتحدها جمهورية العراق من الشمال والغرب، والمملكة العربية السعودية من الجنوب. ما المسطح المائي الذي يحد الكويت من الشرق؟,البحر الأحمر,بحر العرب,البحر المتوسط,الخليج العربي,D,2,الجغرافيا,T-04
+Q-0067,SOC-9,ar,TRUE_FALSE,يحتفل الكويتيون بالعيد الوطني في ٢٥ فبراير من كل عام.,صح,خطأ,,,A,1,التاريخ,T-04
+Q-0068,SOC-9,ar,TRUE_FALSE,تقع دولة الكويت في قارة أفريقيا.,صح,خطأ,,,B,1,الجغرافيا,T-04
+Q-0069,SOC-9,ar,MCQ,كم عدد الدول الأعضاء في مجلس التعاون لدول الخليج العربية؟,٥,٦,٧,٨,B,1,مجلس التعاون,T-04
+Q-0070,SOC-9,ar,MCQ,ما أكبر جزر دولة الكويت مساحةً؟,فيلكا,كبر,بوبيان,وربة,C,2,الجغرافيا,T-04
+Q-0071,SOC-9,ar,MCQ,في أي عام نالت دولة الكويت استقلالها؟,١٩٤٥,١٩٦١,١٩٧١,١٩٩١,B,2,التاريخ,T-04
+Q-0072,SOC-9,ar,TRUE_FALSE,يقسم خط الاستواء الكرة الأرضية إلى نصفين: شمالي وجنوبي.,صح,خطأ,,,A,,الجغرافيا,T-04
+Q-0073,SOC-9,ar,MCQ,ما عاصمة دولة الكويت؟,الجهراء,مدينة الكويت,الأحمدي,حولي,B,1,الجغرافيا,T-04
+Q-0074,SOC-9,ar,MCQ,كم فلسًا في الدينار الكويتي الواحد؟,١٠٠,٥٠٠,١٠٠٠,١٠,C,2,الاقتصاد,T-04
+Q-0075,SCI-8,en,MCQ,What is the SI unit of force?,Joule,Watt,Pascal,Newton,D,1,Physics,T-02
+Q-0076,SCI-8,en,MCQ,Which of these is a renewable energy source?,Coal,Natural gas,Oil,Solar,D,1,Energy,T-02
+Q-0077,SCI-8,en,MCQ,"A student wrote: ""During photosynthesis, plants take in oxygen and give out carbon dioxide."" What is wrong with this statement?","Nothing, it is correct",Photosynthesis only happens at night,Plants do not exchange gases,The two gases are the wrong way round,D,3,Biology,T-02
+Q-0078,SCI-8,en,MCQ,What is the main job of red blood cells?,Fighting infection,Helping blood to clot,Digesting food,Carrying oxygen,D,2,Biology,T-02
+Q-0079,SCI-8,en,TRUE_FALSE,Sound can travel through a vacuum.,True,False,,,B,1,Physics,T-02
+Q-0080,SCI-8,en,MCQ,Which planet is closest to the Sun?,Venus,Mercury,Earth,Mars,B,1,Space,T-02
+Q-0081,SCI-8,en,TRUE_FALSE,The human heart has four chambers.,True,False,,,A,1,Biology,T-02
+Q-0082,SCI-8,en,MCQ,Which change of state turns a liquid into a gas?,Melting,Freezing,Condensation,Evaporation,D,1,Chemistry,T-02
+Q-0083,SCI-8,en,MCQ,Which gas makes up most of the Earth's atmosphere?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen,C,2,Earth science,T-02
+Q-0084,SCI-8,en,MCQ,Which part of a plant cell carries out photosynthesis?,Nucleus,Cell wall,Chloroplast,Vacuole,C,2,Biology,T-02
+Q-0085,SCI-8,en,MCQ,What is the chemical formula for water?,CO2,O2,H2O,NaCl,C,1,Chemistry,T-02
+Q-0086,SCI-8,en,MCQ,What is the pH of pure water at 25 °C?,0,7,10,14,B,2,Chemistry,T-02
+Q-0087,SCI-8,en,MCQ,"In an experiment, a student heats 200 g of water and records its temperature every minute. The temperature rises steadily from 20 °C to 80 °C in 6 minutes. By how many degrees does the temperature rise each minute?",10 °C,6 °C,60 °C,13 °C,A,3,Physics,T-02
+Q-0088,SCI-8,en,MCQ,A car travels 120 km in 2 hours. What is its average speed?,60 km/h,240 km/h,122 km/h,30 km/h,A,2,Physics,T-02
+Q-0089,SCI-8,en,TRUE_FALSE,"At sea level, pure water boils at 100 °C.",True,False,,,A,1,Physics,T-02
+Q-0021,ICT-9,en,MCQ,Which device is used to display images from a computer?,Monitor,Keyboard,Speaker,Printer,A,2,Hardware,T-02
